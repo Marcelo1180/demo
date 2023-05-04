@@ -5,3 +5,5 @@ console.log("cambio 1");
 console.log("cambio 2");
 console.log("cambio 4");
 console.log("cambio 5");
+console.log("cambio 6");
+console.log("cambio 7");
